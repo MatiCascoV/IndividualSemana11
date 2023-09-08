@@ -1,6 +1,6 @@
 /* Estilos generales */
 body {
-    background-color: yellow; /* Fondo amarillo */
+    background-color: yellow; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,7 +30,7 @@ body {
 }
 
 #botonBusqueda{
-    background-color: #007bff; /* Azul */
+    background-color: #007bff; 
     color: white;
     padding: 10px 20px;
     border: none;
@@ -40,10 +40,10 @@ body {
 }
 
 #botonBusqueda:hover {
-    background-color: #0056b3; /* Azul más oscuro al pasar el cursor */
+    background-color: #0056b3; 
 }
 
-/* Estilos para los resultados */
+
 .results {
     display: flex;
     flex-wrap: wrap;
